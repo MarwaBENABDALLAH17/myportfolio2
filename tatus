@@ -1,0 +1,232 @@
+[33mcommit 56211ea85e207813db54408047c2c97201cda88a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 77a4217 b075a7d
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Fri Aug 26 11:12:57 2022 -0400
+
+    Merge pull request #146 from RyanFitzgerald/dependabot/npm_and_yarn/copy-props-2.0.5
+    
+    Bump copy-props from 2.0.4 to 2.0.5
+
+[33mcommit 77a4217cd71d46452cbb719e685545f860086904[m
+Merge: 776b469 e131fe7
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Fri Aug 26 11:12:49 2022 -0400
+
+    Merge pull request #143 from RyanFitzgerald/dependabot/npm_and_yarn/minimist-1.2.6
+    
+    Bump minimist from 1.2.5 to 1.2.6
+
+[33mcommit 776b46938e8a38c61970f56b1bf3b0dff42fbd16[m
+Merge: c35f822 78c58a0
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Fri Aug 26 11:12:40 2022 -0400
+
+    Merge pull request #139 from RyanFitzgerald/dependabot/npm_and_yarn/ajv-6.12.6
+    
+    Bump ajv from 6.12.0 to 6.12.6
+
+[33mcommit b075a7d5b16e0ce8c5760dc13a58b8f11c56fe3e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 27 20:02:52 2022 +0000
+
+    Bump copy-props from 2.0.4 to 2.0.5
+    
+    Bumps [copy-props](https://github.com/gulpjs/copy-props) from 2.0.4 to 2.0.5.
+    - [Release notes](https://github.com/gulpjs/copy-props/releases)
+    - [Changelog](https://github.com/gulpjs/copy-props/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/gulpjs/copy-props/compare/2.0.4...2.0.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: copy-props
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e131fe7d6a4fdebcc346fb7209f4837506aa4a6c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Apr 9 19:24:01 2022 +0000
+
+    Bump minimist from 1.2.5 to 1.2.6
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 78c58a0173b2475861d83d6c6fee74f60e27c7c3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Feb 11 04:55:02 2022 +0000
+
+    Bump ajv from 6.12.0 to 6.12.6
+    
+    Bumps [ajv](https://github.com/ajv-validator/ajv) from 6.12.0 to 6.12.6.
+    - [Release notes](https://github.com/ajv-validator/ajv/releases)
+    - [Commits](https://github.com/ajv-validator/ajv/compare/v6.12.0...v6.12.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: ajv
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit c35f822ee6d4c1abe03aa26c626a2003a190dfaa[m
+Merge: e231087 2500f91
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Jan 1 12:01:42 2022 -0500
+
+    Merge pull request #135 from vikasganiga05/fix-117-dynamic-copyright-year
+    
+    Fixed Dynamic Copyright Year
+
+[33mcommit 2500f9136ac75eb72df181251a8bbe0f38614548[m
+Author: Vikas Ganiga <codewithvikas@gmail.com>
+Date:   Sat Jan 1 19:44:33 2022 +0530
+
+    fix: dynamic copyright year
+
+[33mcommit e231087ef15f59583396ef71c9fa674db024d25b[m
+Merge: 30817e6 79a47a0
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Dec 18 15:08:26 2021 -0500
+
+    Merge pull request #111 from RyanFitzgerald/dependabot/npm_and_yarn/y18n-3.2.2
+    
+    Bump y18n from 3.2.1 to 3.2.2
+
+[33mcommit 30817e651f4978a45bf094d81dd47f6dac50f15f[m
+Merge: 78c75f5 e3b8ddd
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Dec 18 15:08:18 2021 -0500
+
+    Merge pull request #107 from RyanFitzgerald/dependabot/npm_and_yarn/ini-1.3.7
+    
+    Bump ini from 1.3.5 to 1.3.7
+
+[33mcommit 78c75f5a0b31d009c4d2f53d594563d737339d32[m
+Merge: e8695f6 6725acf
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Dec 18 15:08:09 2021 -0500
+
+    Merge pull request #114 from RyanFitzgerald/dependabot/npm_and_yarn/lodash-4.17.21
+    
+    Bump lodash from 4.17.19 to 4.17.21
+
+[33mcommit e8695f61e891cd2642f974c5ff195e186f69800c[m
+Merge: a6cd44a 5dfa863
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Dec 18 15:07:59 2021 -0500
+
+    Merge pull request #119 from RyanFitzgerald/dependabot/npm_and_yarn/postcss-7.0.36
+    
+    Bump postcss from 7.0.27 to 7.0.36
+
+[33mcommit a6cd44abe1c258cb113b8388383e670f2e350eb3[m
+Merge: bbbd40d d181ae5
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Dec 18 15:07:41 2021 -0500
+
+    Merge pull request #128 from RyanFitzgerald/dependabot/npm_and_yarn/path-parse-1.0.7
+    
+    Bump path-parse from 1.0.6 to 1.0.7
+
+[33mcommit d181ae5bf3df563c3151318843c726634c731e26[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 10 20:22:23 2021 +0000
+
+    Bump path-parse from 1.0.6 to 1.0.7
+    
+    Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
+    - [Release notes](https://github.com/jbgutierrez/path-parse/releases)
+    - [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: path-parse
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 5dfa8639886fc8b8e3a79ee3e25a9eea1604cf7c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Jun 15 16:53:29 2021 +0000
+
+    Bump postcss from 7.0.27 to 7.0.36
+    
+    Bumps [postcss](https://github.com/postcss/postcss) from 7.0.27 to 7.0.36.
+    - [Release notes](https://github.com/postcss/postcss/releases)
+    - [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/postcss/postcss/compare/7.0.27...7.0.36)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: postcss
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6725acf7a11c7a429c28594932982cf973fe0168[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 7 21:15:07 2021 +0000
+
+    Bump lodash from 4.17.19 to 4.17.21
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 79a47a0ff3190aa8a6d1fb0d307c5a35ad85bedd[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 29 17:03:05 2021 +0000
+
+    Bump y18n from 3.2.1 to 3.2.2
+    
+    Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
+    - [Release notes](https://github.com/yargs/y18n/releases)
+    - [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/yargs/y18n/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e3b8ddd6ef2db27bf42c01c1d6cd67315570a55d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 10 23:46:52 2020 +0000
+
+    Bump ini from 1.3.5 to 1.3.7
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bbbd40d6ca552ff10f6bf1fff4c1c86ba9816b8b[m
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Oct 17 21:11:27 2020 -0400
+
+    Update README.md
+
+[33mcommit 1db0719d2cf912c38eae16a8a6771ddc6030da89[m
+Merge: 1eba10a e35cba5
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Mon Oct 12 13:19:49 2020 -0400
+
+    Merge pull request #95 from RyanFitzgerald/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit 1eba10a45635546ac42850eac01b531defbdc7
